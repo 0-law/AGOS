@@ -10,8 +10,6 @@
 2. `输出结果/个股总表/02_个股逻辑提取表_YYYY-MM-DD_HHMMSS.csv`
 3. `输出结果/HTML研报/03_日内投研研报_YYYY-MM-DD_HHMMSS.html`
 
-三个输出必须分别写入三个不同文件夹中的三个独立文件，不得混放在同一目录中，不得用 Markdown 代替 CSV，不得把 HTML 内容内嵌到 Markdown 中。
-
 ## 路由规则
 
 ### 日常复盘任务
